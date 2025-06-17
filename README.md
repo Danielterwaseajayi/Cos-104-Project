@@ -14,7 +14,11 @@ Simple and clean web-based user interface
 
     Group Members
  O. Martins Luther : wrote the code for the home.py
+
 Ajayi Daniel : also wrote the code for the home.py
+
 Solomon kunle best : Wrote the code for the savings account
+
 Dimitris R. Aibangbee : Wrote the code for the account
+
 Etim Cornelius Emediong : wrote the code for the currrent account
